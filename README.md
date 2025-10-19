@@ -1,10 +1,7 @@
 # dev0RotInjector
 
 **dev0RotInjector** is a Windows GUI application for injecting a DLL into a running process.  
-This repository includes the C# Windows Forms source (recommended under `src/`), an optional Python helper script (`register_dev0RotInjector.py`) to add a context-menu entry for `.dll` files, build/publish instructions, and security guidance.
-
-> **Important — Legal & Safety Notice**  
-> This tool is dual‑use. Do **not** use it on systems, processes or applications without explicit authorization. Unauthorized code injection is illegal and can cause system instability or data loss. The author is not responsible for misuse.
+This repository includes the C# Windows Forms source (recommended under `source code/`), an optional Python helper script (`register_dev0RotInjector.py`) to add a context-menu entry for `.dll` files, build/publish instructions, and security guidance.
 
 ---
 
